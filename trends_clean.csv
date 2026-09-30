@@ -1,0 +1,85 @@
+post_id,title,category,score,num_comments,author,collected_at
+49903713,Responsible Release of AI-Generated Mathematics,technology,38,37,aureianimus,2026-09-30 12:44:30.909844
+49883913,Testing WebGPU data layouts with Facet,technology,18,0,luu,2026-09-30 12:44:30.910028
+49871018,"NAND-16: a computer built from 277,248 NAND gates",technology,130,71,rossant,2026-09-30 12:44:30.910320
+49903712,Ballmer Peak,technology,41,6,thunderbong,2026-09-30 12:44:30.910539
+49890226,A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf],technology,415,130,damaru2,2026-09-30 12:44:30.910911
+49904221,"AI tools generated nearly $1B in extra costs, Blue Cross insurers say",technology,11,6,EA-3167,2026-09-30 12:44:30.911075
+49866783,Software occlusion culling in Block Game,technology,99,9,airhangerf15,2026-09-30 12:44:30.911209
+49901973,How our vibe coded website looks like a designer made it,technology,107,61,yakkomajuri,2026-09-30 12:44:30.911466
+49877678,Does Reddit have an astroturfing problem? What the data suggests,technology,295,384,p-s-v,2026-09-30 12:44:30.911542
+49902354,"Councilmember, residents push back on AI 'blight scores' given to homes",technology,23,3,hn_acker,2026-09-30 12:44:30.911714
+49899453,McDonald's push to have AI price your Big Mac,technology,52,23,Betelbuddy,2026-09-30 12:44:30.911912
+49901900,McDonald's Is Using AI to Dynamically Price Its Burgers,technology,27,16,DeepLogin,2026-09-30 12:44:30.912023
+49883471,It's Time to Investigate the AI Labs,technology,603,266,ibobev,2026-09-30 12:44:30.912194
+49879577,Cf: The Agentic CLI for the Cloudflare API,technology,167,84,macleos,2026-09-30 12:44:30.912273
+49898896,TIRx Harness: An Open Compiler Harness for Agentic GPU Programming,technology,9,0,jinhongyii,2026-09-30 12:44:30.912590
+49876148,What would a serious AI product look like?,technology,171,81,lumpa,2026-09-30 12:44:30.912634
+49896050,DraftKings is using AI to behaviorally target chronic gamblers,technology,538,393,paimapi,2026-09-30 12:44:30.912699
+49882781,MicroLLM Lab – Try 7 tiny LLM's in the browser,technology,276,113,logicallee,2026-09-30 12:44:30.912766
+49879883,Nvidia wants to put a watchdog chip next to every AI agent,technology,225,293,jonbaer,2026-09-30 12:44:30.913075
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,177,78,teleforce,2026-09-30 12:44:30.913149
+49891721,Mistral CEO says U.S. AI safety debate masks competitors' 'negligence',technology,47,2,cramer4next,2026-09-30 12:44:30.913506
+49849409,Writing Efficient C++ Code (2013),technology,173,157,ibobev,2026-09-30 12:44:30.913544
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,95,41,FKJ,2026-09-30 12:44:30.913715
+49893248,Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School,technology,25,0,cdrnsf,2026-09-30 12:44:30.913849
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,153,76,theanonymousone,2026-09-30 12:44:30.913944
+49901351,Climate Essay: The Inconvenient Truth Behind the Inconvenient Truth (2026),worldnews,7,0,sceeene,2026-09-30 12:44:32.916125
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),worldnews,158,74,evakhoury,2026-09-30 12:44:32.917388
+49891550,US sanctions force The Netherlands off Microsoft and toward alternative NixOS,worldnews,374,370,mywacaday,2026-09-30 12:44:32.917950
+49832768,A searchable library of forgotten public-domain film clips from 1915 onward,worldnews,218,28,momentmaker,2026-09-30 12:44:32.918056
+49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,worldnews,421,142,sidharthkmenon,2026-09-30 12:44:32.918439
+49864642,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",worldnews,471,303,rbanffy,2026-09-30 12:44:32.918559
+49856665,OpenAI bots meddled with multiple US Government agency sites,worldnews,132,195,Betelbuddy,2026-09-30 12:44:32.918720
+49897817,OpenAI Ignored Employees Who Warned It Wasn't Doing Enough About Security,worldnews,9,1,dap,2026-09-30 12:44:32.919113
+49902320,"'AI should assist teachers, not replace them': Union warns of AI marking risks",worldnews,5,1,billybuckwheat,2026-09-30 12:44:32.919252
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1019,581,fjfaase,2026-09-30 12:44:32.919412
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,333,nonfamous,2026-09-30 12:44:32.919686
+49892958,What makes software development engineering,worldnews,45,60,ibobev,2026-09-30 12:44:32.919992
+49811429,Data-only attacks are easier than you think (2024),worldnews,102,45,segfaultbuserr,2026-09-30 12:44:32.920045
+49881711,Protest Against European Parliament Chat Control 1.0 Legislation in Warsaw,worldnews,21,1,latexr,2026-09-30 12:44:32.920126
+49872468,OpenAI pauses training of latest models after agents probed US Government sites,worldnews,31,3,daniel_iversen,2026-09-30 12:44:32.920166
+49891881,Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second,worldnews,57,75,blondie9x,2026-09-30 12:44:32.920206
+49903383,Strange Parodies of Atari 2600 Video Game Box Cover Art (2008),sports,36,21,peter_d_sherman,2026-09-30 12:44:34.924310
+49899004,Galaxy Game,sports,17,1,rbanffy,2026-09-30 12:44:34.924554
+49899435,Americans will be able to apply for their first passport online in 2027,sports,9,0,atestu,2026-09-30 12:44:34.925340
+49861755,"What reversing, modernising old games tells us about the economic impact of AI",sports,134,89,keeda,2026-09-30 12:44:34.925529
+49885493,Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?,sports,78,50,thefourthchime,2026-09-30 12:44:34.925654
+49879707,"First DVD player announced Sept 26, 1996",sports,9,0,ibobev,2026-09-30 12:44:34.926922
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-30 12:44:34.927194
+49836590,The Board Game of the Alpha Nerds (2014),sports,123,65,neonate,2026-09-30 12:44:34.929704
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-30 12:44:34.929826
+49890733,NASA asked several former SR-71A staffers to help secret restart,science,123,116,ilamont,2026-09-30 12:44:36.937586
+49892120,"1 in 8 cancer cases worldwide are caused by infections, study finds",science,253,132,colinprince,2026-09-30 12:44:36.937993
+49901279,Mysterious 'UFO' spotted on SpaceX livestream,science,5,0,handfuloflight,2026-09-30 12:44:36.938161
+49883536,Scientists solve 1840s space weather mystery,science,125,56,gumby,2026-09-30 12:44:36.938181
+49859863,The Beatles have permeated research papers across academic disciplines,science,22,26,pseudolus,2026-09-30 12:44:36.938747
+49901246,NASA Asked Several Former SR-71A Staffers to Help Secret Restart – Aviation Week,science,5,0,rbanffy,2026-09-30 12:44:36.939107
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,295,107,danso,2026-09-30 12:44:36.939228
+49839438,"Biology might not be quantum, but its math is quantumlike",science,123,60,pseudolus,2026-09-30 12:44:36.940146
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,545,xnx,2026-09-30 12:44:36.941272
+49881135,How Pew Research Center is – and is not – using AI in our work,science,22,3,hn_acker,2026-09-30 12:44:36.941615
+49898778,Show HN: Real-time Solar System with 526k asteroids and all tracked satellites,entertainment,196,46,wanick,2026-09-30 12:44:38.947602
+49879758,"Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",entertainment,8,1,seam_carver,2026-09-30 12:44:38.947789
+49894351,Show HN: NSL – WSL for Linux,entertainment,120,78,bketelsen,2026-09-30 12:44:38.947851
+49896757,Show HN: A working 3D model of an Enigma machine,entertainment,59,20,primitivesuave,2026-09-30 12:44:38.947916
+49898931,Show HN: TurboGPT: train 22KiB transformer in 13s,entertainment,46,10,lostmsu,2026-09-30 12:44:38.948023
+49902382,Show HN: Ledge.sh – Runnable Markdown Notes,entertainment,11,0,dancablam,2026-09-30 12:44:38.948071
+49891769,"Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",entertainment,62,14,tgluck,2026-09-30 12:44:38.948203
+49879401,Show HN: HN.watch – Videos of all Hacker News posts,entertainment,209,97,mrborgen,2026-09-30 12:44:38.948286
+49898958,Show HN: Sarala – An open-source WYSIWYG Markdown editor,entertainment,14,1,solancer,2026-09-30 12:44:38.948327
+49894301,"Show HN: Sezwhere – Ask any document ""where does it say that?"" (built on Jev)",entertainment,18,6,irs,2026-09-30 12:44:38.948394
+49880601,Show HN: Destroy Any Website with Stickman,entertainment,167,39,HugoDz,2026-09-30 12:44:38.948413
+49879645,Updated Google Maps shows destruction of the city of Rafah,entertainment,897,879,slowin,2026-09-30 12:44:38.948532
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",entertainment,149,62,seamus_c,2026-09-30 12:44:38.948553
+49875308,Show HN: Free alternative to graphics design giants,entertainment,137,50,sia_xi,2026-09-30 12:44:38.948592
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,314,135,safaelmali,2026-09-30 12:44:38.948923
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,281,123,pancomplex,2026-09-30 12:44:38.948964
+49858756,Show HN: Museum of Numbers,entertainment,31,12,rhl314,2026-09-30 12:44:38.949003
+49895975,AI models keep posting screenshots showing sensitive data from inside companies,entertainment,20,0,Dotnaught,2026-09-30 12:44:38.949418
+49867775,Show HN: TinyAIArena watch AI agents battle it out,entertainment,120,45,hp6,2026-09-30 12:44:38.949494
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,406,119,jpwalsh234,2026-09-30 12:44:38.949736
+49876760,Show HN: Hntui – A TUI for Hacker News,entertainment,111,65,ahmd-sh,2026-09-30 12:44:38.949975
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,423,107,pseudolus,2026-09-30 12:44:38.950234
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,43,13,kdautaj,2026-09-30 12:44:38.950661
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,88,41,andrearitossa,2026-09-30 12:44:38.950964
